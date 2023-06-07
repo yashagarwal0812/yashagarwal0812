@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm YASH AGARWAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagarwal0812&label=Profile%20views&color=0e75b6&style=flat" alt="yashagarwal0812" /> </p>
+<!--><p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagarwal0812&label=Profile%20views&color=0e75b6&style=flat" alt="yashagarwal0812" /> </p><-->
 
 - 🔭 I’m currently working on [Swipe Website Clone](https://github.com/yashagarwal0812/Swipe-Frontend)
 
