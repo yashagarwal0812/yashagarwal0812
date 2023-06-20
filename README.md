@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagarwal0812&label=Profile%20views&color=0e75b6&style=flat" alt="yashagarwal0812" /> </p>
 
-- 🔭 I’m currently working on [Stripe Website Clone](https://github.com/yashagarwal0812/Swipe-Frontend)
+- 🔭 I’m currently working on [Analytics Website](https://github.com/yashagarwal0812/Analytics)
 
 - 🌱 I’m currently learning **Node and Express**
 
