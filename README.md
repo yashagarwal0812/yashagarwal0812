@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Analytics Website](https://github.com/yashagarwal0812/Analytics)
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashagarwal0812/](https://github.com/yashagarwal0812/)
 
