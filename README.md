@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagarwal0812&label=Profile%20views&color=0e75b6&style=flat" alt="yashagarwal0812" /> </p>
 
-- 🔭 I’m currently working on [Analytics Website](https://github.com/yashagarwal0812/Analytics)
+- 🔭 I’m currently working on **YelpCamp**
 
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashagarwal0812/](https://github.com/yashagarwal0812/)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JS, DOM Manipulation, Node.js, Express, MongoDB, Mongoose**
 
 - 📫 How to reach me **yashagarwal827327@gmail.com**
 
