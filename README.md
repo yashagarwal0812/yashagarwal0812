@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm YASH AGARWAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script>
-<lottie-player src=“https://lottie.host/1736816c-cffd-4ccf-a91f-d2af114e6932/NN8tszaTrn.json” background=“#fff” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagarwal0812&label=Profile%20views&color=0e75b6&style=flat" alt="yashagarwal0812" /> </p>
 
