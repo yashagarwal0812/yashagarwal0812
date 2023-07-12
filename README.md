@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm YASH AGARWAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
+![web dev animation gif](animation.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagarwal0812&label=Profile%20views&color=0e75b6&style=flat" alt="yashagarwal0812" /> </p>
 
