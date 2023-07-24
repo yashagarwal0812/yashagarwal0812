@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashagarwal0812/](https://github.com/yashagarwal0812/)
 
-- 💬 Ask me about **HTML, CSS, JS, DOM Manipulation, Node.js, Express, MongoDB, Mongoose**
+- 💬 Ask me about **HTML, CSS, JS, DOM Manipulation, Node.js, Express, MongoDB, Mongoose, Python**
 
 - 📫 How to reach me **yashagarwal827327@gmail.com**
 
