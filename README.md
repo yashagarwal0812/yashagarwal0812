@@ -11,9 +11,9 @@
 
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **YelpCamp**
+- 🔭 I’m currently working on **Modern ML Techniques**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashagarwal0812/](https://github.com/yashagarwal0812/)
 
