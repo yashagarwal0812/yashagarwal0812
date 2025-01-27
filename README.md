@@ -11,9 +11,9 @@
 
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Modern ML Techniques**
+- 🔭 I’m currently working on **VortexDev**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashagarwal0812/](https://github.com/yashagarwal0812/)
 
