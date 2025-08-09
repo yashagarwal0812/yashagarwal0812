@@ -43,3 +43,20 @@
 </span>
 
 </div>
+
+
+---
+
+## 📊 GitHub Stats:
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <a href="https://github.com/yashagarwal0812">
+    <img src="https://github-readme-stats.vercel.app/api?username=geekyash10&show_icons=true&locale=en" alt="GitHub Stats" style="width: 48%; height: auto;" />
+  </a>
+  <a href="https://github.com/yashagarwal0812">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekyash10&" alt="GitHub Streak" style="width: 48%; height: auto;" />
+  </a>
+</div>
+
+
+---
